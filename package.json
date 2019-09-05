@@ -10,10 +10,8 @@
   "devDependencies": {
     "eslint": "^5.16.0",
     "mocha": "^6.2.0",
-    "chai-as-promised": "^7.1.1",
     "sinon": "^7.4.2",
     "assert": "^2.0.0",
-    "chai": "^4.2.0",
     "faker": "^4.1.0",
     "proxyquire": "^2.1.3"
   },
